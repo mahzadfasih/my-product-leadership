@@ -1,5 +1,7 @@
 # Outcome Roadmap & Trade-off Memo
 
+
+
 | Horizon | Outcome / bet | Owning team(s) | Success signal |
 |---|---|---|---|
 Now (0 to 3 mo) | 1. Daily log simplification (KR3): We bet reducing the effort required to capture daily field observations will increase the frequency of submissions for superintendents and foremen.  2. Office-field continuity (KR2): We bet eliminating duplicate entry between field submissions and office management workflows will increase repeat usage for field staff and project managers.  3. Compliance automation (KR1): We bet reducing the manual effort and human error involved in compliance documentation will increase adoption among mid-market construction companies. | Product, Mobile Engineering, UX Research; Platform Engineering, Product; Product, AI/Automation, Compliance SMEs | Daily log completion rate; median time to submit; weekly active field users.  Percentage of field submissions automatically available in office workflows; reduction in duplicate entry; returning weekly users.  Reduction in checklist preparation time; compliance error rate; number of newly activated customers.
