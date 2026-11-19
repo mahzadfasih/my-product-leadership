@@ -1,16 +1,16 @@
 # Outcome Roadmap & Trade-off Memo
 
-> **Rock 1:** Simplify the daily log: reduce from 14 required field to 4
+> **Rock 1:** Simplify the daily log: reduce from 14 required field to 4 (KR3)
 >
-> **Rock 2:** _____
+> **Rock 2:** Build an automated compliance checklist generator (KR1)
 >
-> **Rock 3:** _____
+> **Rock 3:** Add a time-tracking module (KR2)
 >
-> **Hard no 1:** _____
+> **Hard no 1:** Migrate the data model to support multi-project dashboards
 >
-> **Hard no 2:** _____
+> **Hard no 2:** Build an executive reporting dashboard with custom KPIs
 >
-> **Hard no 3:** _____
+> **Hard no 3:** Create a foreman-facing mobile app (separate from PM app)
 
 | Horizon | Outcome / bet | Owning team(s) | Success signal |
 |---|---|---|---|
