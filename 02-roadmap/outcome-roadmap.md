@@ -1,6 +1,16 @@
 # Outcome Roadmap & Trade-off Memo
 
-
+> **Rock 1:** Simplify the daily log: reduce from 14 required field to 4
+>
+> **Rock 2:** _____
+>
+> **Rock 3:** _____
+>
+> **Hard no 1:** _____
+>
+> **Hard no 2:** _____
+>
+> **Hard no 3:** _____
 
 | Horizon | Outcome / bet | Owning team(s) | Success signal |
 |---|---|---|---|
