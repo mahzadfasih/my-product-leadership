@@ -1,46 +1,6 @@
 # Outcome Roadmap & Trade-off Memo
-Horizon	Outcome / bet	Owning team(s)	Success signal
-Now (0 to 3 mo)	1. Daily log simplification (KR3): We bet reducing the effort required to capture daily field observations will increase the frequency of submissions for superintendents and foremen. 
 
- 2. Office-field continuity (KR2): We bet eliminating duplicate entry between field submissions and office management workflows will increase repeat usage for field staff and project managers. 
-
- 3. Compliance automation (KR1): We bet reducing the manual effort and human error involved in compliance documentation will increase adoption among mid-market construction companies.	Product, Mobile Engineering, UX Research; Platform Engineering, Product; Product, AI/Automation, Compliance SMEs	Daily log completion rate; median time to submit; weekly active field users. 
-
- Percentage of field submissions automatically available in office workflows; reduction in duplicate entry; returning weekly users. 
-
- Reduction in checklist preparation time; compliance error rate; number of newly activated customers.
-Next (3 to 6 mo)	1. Time-tracking adoption: Expand into workforce time tracking if evidence shows that field workers want to manage time through the same daily workflow. 
-
- 2. Field issue resolution: Extend field-office collaboration so submitted issues receive ownership, acknowledgment, and resolution without manual follow-up. 
-
- 3. Workflow intelligence: Use historical construction data to recommend which field issues require attention and communication. 
-
- 4. Mid-market expansion: Validate repeatable deployment and onboarding across additional $5M–$50M construction companies. 
-
- 5. Field engagement: Improve retention through workflows that bring field workers back to the app to see updates and responses to their submissions.	Product, Mobile Engineering; Product, Platform Engineering; Data Science, AI Engineering; Product, Customer Success, Sales; Product, UX, Mobile Engineering	Time-tracking weekly active users and repeat usage; percentage of projects adopting the workflow. 
-
- Issue acknowledgment and resolution time. 
-
- Percentage of relevant issues correctly identified; recommendation engagement. 
-
- Customer activation rate and time to first value. 
-
- 30-day field-user retention.
-Later (6 to 12 mo)	Bet: Predictive field intelligence: Use Meridian's accumulated construction data to anticipate recurring project risks and surface relevant recommendations before issues escalate. 
-
- Bet: Enterprise-wide workforce visibility: Connect field activity with project financials, compliance, and operational analytics to provide a unified view of project execution. 
-
- Bet: Global market readiness: Explore localization and configurable compliance capabilities to support multinational construction customers. 
-
- Bet: Ecosystem expansion: Evaluate deeper integrations with ERP, workforce management, and other construction systems to expand Meridian's role in the field.	Data Science, AI Engineering, Product; Enterprise Product, Platform Engineering; Architecture, Legal, Compliance; Partnerships, Platform Engineering	Reduction in preventable project issues; predictive recommendation adoption. 
-
- Cross-functional workflow adoption; reduction in reporting delays. 
-
- Validated international customer demand and market economics. 
-
- Integration adoption and cross-platform workflow completion.
-
-
-
-| Next (3 to 6 mo) | _____ | _____ | _____ |
-| Later (6 to 12 mo) | _____ | _____ | _____ |
+Horizon | Outcome / bet | Owning team(s) | Success signal
+Now (0 to 3 mo) | 1. Daily log simplification (KR3): We bet reducing the effort required to capture daily field observations will increase the frequency of submissions for superintendents and foremen.  2. Office-field continuity (KR2): We bet eliminating duplicate entry between field submissions and office management workflows will increase repeat usage for field staff and project managers.  3. Compliance automation (KR1): We bet reducing the manual effort and human error involved in compliance documentation will increase adoption among mid-market construction companies. | Product, Mobile Engineering, UX Research; Platform Engineering, Product; Product, AI/Automation, Compliance SMEs | Daily log completion rate; median time to submit; weekly active field users.  Percentage of field submissions automatically available in office workflows; reduction in duplicate entry; returning weekly users.  Reduction in checklist preparation time; compliance error rate; number of newly activated customers.
+Next (3 to 6 mo) | 1. Time-tracking adoption: Expand into workforce time tracking if evidence shows that field workers want to manage time through the same daily workflow.  2. Field issue resolution: Extend field-office collaboration so submitted issues receive ownership, acknowledgment, and resolution without manual follow-up.  3. Workflow intelligence: Use historical construction data to recommend which field issues require attention and communication.  4. Mid-market expansion: Validate repeatable deployment and onboarding across additional $5M–$50M construction companies.  5. Field engagement: Improve retention through workflows that bring field workers back to the app to see updates and responses to their submissions. | Product, Mobile Engineering; Product, Platform Engineering; Data Science, AI Engineering; Product, Customer Success, Sales; Product, UX, Mobile Engineering | Time-tracking weekly active users and repeat usage; percentage of projects adopting the workflow.  Issue acknowledgment and resolution time.  Percentage of relevant issues correctly identified; recommendation engagement.  Customer activation rate and time to first value.  30-day field-user retention.
+Later (6 to 12 mo) | Bet: Predictive field intelligence: Use Meridian's accumulated construction data to anticipate recurring project risks and surface relevant recommendations before issues escalate.  Bet: Enterprise-wide workforce visibility: Connect field activity with project financials, compliance, and operational analytics to provide a unified view of project execution. Bet: Global market readiness: Explore localization and configurable compliance capabilities to support multinational construction customers.  Bet: Ecosystem expansion: Evaluate deeper integrations with ERP, workforce management, and other construction systems to expand Meridian's role in the field. | Data Science, AI Engineering, Product; Enterprise Product, Platform Engineering; Architecture, Legal, Compliance; Partnerships, Platform Engineering | Reduction in preventable project issues; predictive recommendation adoption. Cross-functional workflow adoption; reduction in reporting delays.  Validated international customer demand and market economics.  Integration adoption and cross-platform workflow completion.
