@@ -16,11 +16,3 @@
 >
 > **How cross-team conflicts escalate:** The PM raising the conflict must document the customer or business impact, requested scope change, engineering capacity required, and consequences for existing roadmap commitments, then bring it to the Foundations owner and affected PM within one business day. The Foundations owner facilitates a decision within two business days, making the final call based on initiative-level outcomes and explicit trade-offs; unresolved disagreements are escalated to the relevant product leadership for review, but the existing roadmap allocation remains in effect until a decision is made.
 
-
-> **Joint calls:** _____
-
-## 2. How We Decide
-
-> **Who decides scope:** _____
->
-> **How cross-team conflicts escalate:** _____
